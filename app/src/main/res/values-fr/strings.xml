@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contrainte</string>
+    <string name="description">La description viendra ici.</string>
+    <string name="details">détails</string>
+    <string name="location">emplacement</string>
+    <string name="text_placeholder">ajouter du texte ici</string>
+</resources>

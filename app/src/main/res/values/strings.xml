@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Constraints</string>
+    <string name="location">Location</string>
+    <string name="details">Details</string>
+    <string name="description">Description will come here.</string>
+    <string name="text_placeholder">Add text here...</string>
+</resources>
